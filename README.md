@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deebalakshmi Mathan
 - 👀 I’m interested in Fullstack
-- 
 - 🌱 I’m currently working as a Frontend Developer at Vicara
 
 
